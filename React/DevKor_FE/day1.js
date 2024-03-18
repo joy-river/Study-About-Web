@@ -5,4 +5,8 @@ const [first, second, ...rest] = array;
 
 const array_ = [1, 2];
 
-const [a = 10, b = 20, c = 30] = array;
+const [a = 10, b = 20, c = 30] = array
+
+console.log("array")
+
+console.log(true ? "트루" : "폴스")
